@@ -1,0 +1,8 @@
+[package]
+name = "rust-template"
+version = "0.1.0"
+authors = ["Jacky Boen <aqiank@gmail.com>"]
+
+[dependencies]
+getopts = "*"
+lazy_static = "*"
